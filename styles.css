@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255, 240, 0);
+  font-family: "Oleo Script Swash Caps";
+  font-size: 100px;
+}
+
+.head-1 {
+  text-align: center;
+  background-color: rgb(245, 238, 122);
+  margin: 0 0;
+  letter-spacing: 20px;
+}
+
+.primary-box {
+  height: 600px;
+  text-align: center;
+  background-color: rgb(255, 240, 0);
+  margin-top: 0px;
+}
+
+.primary-box-text {
+  margin-top: 250px;
+  letter-spacing: 40px;
+}
+
+.foot-1 {
+  text-align: center;
+  background-color: rgb(189, 179, 23);
+  letter-spacing: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */

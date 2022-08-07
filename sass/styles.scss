@@ -1,0 +1,35 @@
+@use '_variables';
+@use '_initial';
+
+.head-1{
+
+    text-align: center;
+    background-color: variables.$Yellow-light;
+    margin: 0 0;
+    letter-spacing: 20px;
+
+}
+
+.primary-box{
+
+    height: 600px;
+    text-align: center;
+    background-color: variables.$Yellow-primary;
+    margin-top: 0px;
+
+}
+
+.primary-box-text{
+
+    margin-top: 250px;
+    letter-spacing: 40px;
+
+}
+
+.foot-1{
+    
+    text-align: center;
+    background-color: variables.$Yellow-dark;
+    letter-spacing: 20px;
+
+}
